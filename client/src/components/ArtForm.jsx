@@ -123,7 +123,7 @@ const ArtForm = () => {
     <article className="max-w-3xl mx-auto p-6 bg-white shadow-md rounded-md">
       <header>
         <h1 className="text-2xl font-bold text-gray-700 mb-4">
-          Dunedin School of Art - SITE 2025
+          Dunedin School of Art - SITE Form
         </h1>
         <p className="text-gray-700 mb-4">
           You can find your entry information here -{" "}
